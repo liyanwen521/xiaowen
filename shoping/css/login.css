@@ -1,0 +1,104 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+/* .logo {
+    margin-left: 200px;
+} */
+
+.login-zt {
+    position: relative;
+    height: 520px;
+    margin-top: 90px;
+    background: url(../images/loginbg.png) no-repeat center top;
+    background-size: 100% 100%;
+}
+
+
+.login-dl {
+    position: absolute;
+    width: 430px;
+    height: 425px;
+    top: 48px;
+    right: 293px;
+    background-color: #fff;
+}
+
+.login-dl h3 {
+    height: 35px;
+    margin: 27px 50px;
+    line-height: 35px;
+    font-size: 18px;
+    color: #666666;
+}
+
+.login-dl ul li:nth-child(1) {
+    background-color: #f7f3d5;
+}
+
+.login-dl ul li {
+    width: 333px;
+    height: 25px;
+    border: 1px solid #fffdee;
+
+    margin: 0px 50px;
+    line-height: 25px;
+    margin-bottom: 30px;
+
+}
+
+.login-dl ul li p {
+    color: #666666;
+    font-size: 12px;
+    text-align: left;
+}
+
+/* .login-dl ul li .tishi {
+    height: 60px;
+} */
+
+.login-dl ul li .inpt {
+    width: 291px;
+    height: 39px;
+    border: 1px solid #ccc;
+}
+
+.login1 {
+    float: left;
+}
+
+.login2 {
+    float: right;
+}
+
+/* 
+.login-dl ul li .tubiao::after {
+    font-family: 'icomoon';
+    content: "\e971";
+    font-size: 18px;
+    color: pink;
+} */
+
+
+.zidong input {
+    vertical-align: middle;
+}
+
+.zidong a {
+    float: right;
+}
+
+.btn {
+    width: 330px;
+    height: 40px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+
+.liji img {
+    margin-right: 52px;
+}
